@@ -1,2 +1,2 @@
-# Cops-and-Robbers
-This project explores graphics by creating a game. The user can click the panel to create cops and robbers. Event-based programming is explored in this project
+# AutoGame
+This project explores classes through a 'game'. User can run 'javac AutoTest.java' or 'javac AutoTest2.java' from command line to see how project works. Cars can drive a specified distance and their x,y coordinates will be printed to the screen.
